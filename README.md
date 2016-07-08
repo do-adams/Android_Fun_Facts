@@ -1,4 +1,4 @@
-# Android_Fun_Facts
+# Android Fun Facts
 A charming little fact-telling app for Android.
 
 ![Android Fun Facts](/Fun Facts.png?raw=true)
